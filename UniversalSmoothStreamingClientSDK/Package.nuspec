@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>Villagra.Microsoft.Universal.Smooth.Streaming.Client.SDK</id>
-    <version>1.0.150917</version>
+    <version>1.0.150917.3</version>
     <authors>Microsoft</authors>
     <owners>Microsoft</owners>
     <projectUrl>https://github.com/villagra/MediaNugetPackages</projectUrl>
