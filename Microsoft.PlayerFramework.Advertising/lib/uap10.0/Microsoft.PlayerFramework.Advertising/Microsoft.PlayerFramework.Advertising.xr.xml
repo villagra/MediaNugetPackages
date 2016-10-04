@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Roots >
+  <Roots.RootTypes>
+    <RootType FullName="Windows.UI.Xaml.ResourceDictionary" />
+    <RootType FullName="Microsoft.PlayerFramework.Advertising.VpaidLinearAdViewModel" />
+    <RootType FullName="Microsoft.PlayerFramework.Advertising.VpaidNonLinearAdViewModel" />
+    <RootType FullName="Microsoft.PlayerFramework.Advertising.AdHost" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Control">
+      <RootProperty Name="HorizontalContentAlignment" />
+      <RootProperty Name="VerticalContentAlignment" />
+      <RootProperty Name="IsTabStop" />
+      <RootProperty Name="Template" />
+    </RootType>
+    <RootType FullName="Microsoft.PlayerFramework.Advertising.CompanionHost" />
+    <RootType FullName="Windows.UI.Xaml.Setter">
+      <RootProperty Name="Property" />
+      <RootProperty Name="Value" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ControlTemplate">
+      <RootProperty Name="TargetType" />
+      <RootProperty Name="Template" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Grid">
+      <RootProperty Name="Background" />
+      <RootProperty Name="Children" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.VisualStateManager">
+      <RootMethod Name="GetVisualStateGroups" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.VisualStateGroup">
+      <RootProperty Name="States" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.VisualState">
+      <RootProperty Name="Storyboard" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.Storyboard">
+      <RootProperty Name="Children" />
+      <RootMethod Name="GetTargetProperty" />
+      <RootMethod Name="SetTargetProperty" />
+      <RootMethod Name="GetTargetName" />
+      <RootMethod Name="SetTargetName" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.ObjectAnimationUsingKeyFrames">
+      <RootProperty Name="KeyFrames" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.DiscreteObjectKeyFrame">
+      <RootProperty Name="KeyTime" />
+      <RootProperty Name="Value" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.HorizontalAlignment" />
+    <RootType FullName="Windows.UI.Xaml.VerticalAlignment" />
+    <RootType FullName="Windows.UI.Xaml.Controls.ContentPresenter">
+      <RootProperty Name="IsHitTestVisible" />
+      <RootProperty Name="Content" />
+      <RootProperty Name="ContentTemplate" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.HyperlinkButton">
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Background" />
+      <RootProperty Name="Visibility" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.TemplateBindingExtension" />
+  </Roots.RootTypes>
+</Roots>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>Villagra.Microsoft.Media.Advertising</id>
+    <version>3.0.0.5</version>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <projectUrl>https://github.com/villagra/MediaNugetPackages</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <title>Nuget package for the official Microsoft.Media.Advertising</title>
+    <description>Nuget package for the official Microsoft.Media.Advertising (Only for Universal Windows App - Win10)</description>
+    <releaseNotes>3.0.0.4</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>PlayerFramework</tags>
+  </metadata>
+</package>
