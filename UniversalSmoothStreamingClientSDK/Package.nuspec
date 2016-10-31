@@ -2,14 +2,14 @@
 <package>
   <metadata>
     <id>Villagra.Microsoft.Universal.Smooth.Streaming.Client.SDK</id>
-    <version>1.0.150917.3</version>
+    <version>1.0.161025.0</version>
     <authors>Microsoft</authors>
     <owners>Microsoft</owners>
     <projectUrl>https://github.com/villagra/MediaNugetPackages</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <title>Nuget package for the official Universal Smooth Streaming Client SDK</title>
     <description>Universal Smooth Streaming Client SDK (Only for Universal Windows App - Win10)</description>
-    <releaseNotes>Version 150917</releaseNotes>
+    <releaseNotes>Version 161025</releaseNotes>
     <copyright>Copyright 2016</copyright>
     <tags>SmoothStreaming</tags>
   </metadata>
