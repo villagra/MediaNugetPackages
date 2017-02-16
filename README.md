@@ -21,5 +21,8 @@ playerframework\UWP.Xaml.Advertising\bin\Release
 to:  
 Microsoft.Media.Advertising\lib\uap10.0
 
-To generate the nuget package:  
-nuget pack Package.nuspec
+To generate an individual nuget package:  
+nuget pack Package.nuspec  
+
+To generate them all: 
+packageAll.bat
