@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>Villagra.PlayerFramework.Core</id>
-    <version>3.0.0.5</version>
+    <version>3.0.0.6</version>
     <authors>Microsoft</authors>
     <owners>Microsoft</owners>
     <projectUrl>https://github.com/villagra/MediaNugetPackages</projectUrl>
